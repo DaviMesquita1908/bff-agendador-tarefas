@@ -4,7 +4,7 @@ import com.davimesquita.bffagendadortarefas.Business.Dto.In.TarefasDTORequest;
 import com.davimesquita.bffagendadortarefas.Business.Dto.Out.TarefasDTOResponse;
 import com.davimesquita.bffagendadortarefas.Business.Enums.StatusNotificacaoEnum;
 import com.davimesquita.bffagendadortarefas.Business.TarefasService;
-import com.davimesquita.bffagendadortarefas.Infrastructure.Client.Security.SecurityConfig;
+import com.davimesquita.bffagendadortarefas.Infrastructure.Security.SecurityConfig;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;

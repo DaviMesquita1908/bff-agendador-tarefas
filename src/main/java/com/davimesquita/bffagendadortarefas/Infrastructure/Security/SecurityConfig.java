@@ -1,4 +1,4 @@
-package com.davimesquita.bffagendadortarefas.Infrastructure.Client.Security;
+package com.davimesquita.bffagendadortarefas.Infrastructure.Security;
 
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeType;
 import io.swagger.v3.oas.annotations.security.SecurityScheme;
